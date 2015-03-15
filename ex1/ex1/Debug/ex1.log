@@ -1,0 +1,15 @@
+﻿Build started 2/18/2015 12:14:36 PM.
+     1>Project "C:\Users\mypc\Documents\Visual Studio 2013\Projects\ex1\ex1\ex1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Visual studio\VC\bin\CL.exe /c /I"E:\Microsoft Compute Cluster Pack\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         E:\Visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mypc\Documents\Visual Studio 2013\Projects\ex1\Debug\ex1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Microsoft Compute Cluster Pack\Lib\i386" msmpi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mypc\Documents\Visual Studio 2013\Projects\ex1\Debug\ex1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mypc\Documents\Visual Studio 2013\Projects\ex1\Debug\ex1.lib" /MACHINE:X86 Debug\ex1.obj
+         Debug\Source.obj
+         Debug\stdafx.obj
+         ex1.vcxproj -> C:\Users\mypc\Documents\Visual Studio 2013\Projects\ex1\Debug\ex1.exe
+     1>Done Building Project "C:\Users\mypc\Documents\Visual Studio 2013\Projects\ex1\ex1\ex1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
